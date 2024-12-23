@@ -1,7 +1,7 @@
 # Hi, I'm Maryum Urooj! 👋
 
 ## 🌟 Full Stack Developer | AI/ML Enthusiast  
-Coding since 9th grade, driven by a passion for technology and innovation.  
+Coding since 9th grade.
 
 ---
 
