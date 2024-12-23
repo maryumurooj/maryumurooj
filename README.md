@@ -27,6 +27,11 @@ Coding since 9th grade, driven by a passion for technology and innovation.
 
 ---
 
+
+### 💡 Random Programming Quote:
+![Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
+
 ### 🏆 Achievements
 - **Education:** Completed my Bachelor's in IT Engineering.  
 - **Certifications:** Earned multiple Google Cloud Platform (GCP) certifications.  
@@ -53,9 +58,39 @@ Coding since 9th grade, driven by a passion for technology and innovation.
 ---
 
 ### 🚀 Showcase
-- **Project Name:** Hackathon Project — Control Devices with Touch Projections.  
+
+- **Project Name:** TIPS - Touch Interactive Projection System
   - **Description:** Innovatively used OpenCV to detect touch interactions on projected surfaces, enabling remote device control.  
-  - **Technologies:** Python, OpenCV, Remote Connections.
+  - **Technologies:** Python, OpenCV, Remote Connections
+
+- **Project Name:** Busway  
+  - **Description:** An app that helps track buses using cameras to track bus numbers and provide an ETA. This approach differs from usual GPS systems.  
+  - **Technologies:** Python, ML, AI, YOLOv7, HTML, CSS, Figma
+
+- **Project Name:** EYE  
+  - **Description:** A web extension used in online meetings to translate sign language into audio output and includes processes for learning sign language from scratch.  
+  - **Technologies:** Python, ML, AI, Random Forest Model, React, Flask
+
+- **Project Name:** SLATE - Smart Learning And Teaching Environment
+  - **Description:** A smart learning and teaching environment, a web app that helps students interact with complex concepts like math and physics by providing visual outputs to text inputs, including 3D models of specific topics.  
+  - **Technologies:** Python, Manim, Flask, React
+
+- **Project Name:** iScroll  
+  - **Description:** A virtual mouse built for disabled or amputee individuals to control electronic devices using eye tracking.  
+  - **Technologies:** Python, CV, PyAutoGUI, MediaPipe
+
+- **Project Name:** ARboard  
+  - **Description:** AR technology for tracking and identifying IC boards and their elements.  
+  - **Technologies:** C#, Unity, Vuforia
+
+- **Project Name:** ARbooks  
+  - **Description:** Similar to ARboard, it tracks book covers and provides ratings and reviews using AR technology.  
+  - **Technologies:** C#, Unity, Vuforia
+
+- **Project Name:** Light Control  
+  - **Description:** Frontend of an application to add, track, and control city-wide public lights.  
+  - **Technologies:** HTML, CSS, JavaScript
+
 
 ---
 
