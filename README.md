@@ -59,10 +59,6 @@ Coding since 9th grade.
 
 ### 🚀 Showcase
 
-- **Project Name:** TIPS - Touch Interactive Projection System
-  - **Description:** Innovatively used OpenCV to detect touch interactions on projected surfaces, enabling remote device control.  
-  - **Technologies:** Python, OpenCV, Remote Connections
-
 - **Project Name:** Busway  
   - **Description:** An app that helps track buses using cameras to track bus numbers and provide an ETA. This approach differs from usual GPS systems.  
   - **Technologies:** Python, ML, AI, YOLOv7, HTML, CSS, Figma
